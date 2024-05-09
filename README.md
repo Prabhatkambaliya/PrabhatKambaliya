@@ -9,8 +9,7 @@
 
 ## 🚀 About Me
 - 🎓 Pursuing **BCA** at Dr. Subhash University
-- 🌱 Learning **Python**, **JavaScript**, and **AI**
-- 💫 Always eager to explore **New things!**
+- 🌱 Learning **Python**, **JavaScript**, and **django**
 
 - 📫 How to reach me **prabhatkambaliya1706@gmail.com**
 
